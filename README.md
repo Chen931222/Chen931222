@@ -1,0 +1,16 @@
+### 朱亞承 · CHU YA-CHENG
+
+興大資管。把生活裡的東西一件一件建檔，再做成可以走進去的展場。
+
+完整的作品與方法在 **[personal-site-tan-alpha.vercel.app](https://personal-site-tan-alpha.vercel.app)**。
+
+| 專案 | 是什麼 | |
+|---|---|---|
+| [Oasis-green](https://github.com/Chen931222/Oasis-green) | 拼場共租平台。大二「網際網路系統設計」期末專題，56 個測試＋CI，一路做到上線 | [live](https://oasis-green.onrender.com) |
+| [parking-exhibit](https://github.com/Chen931222/parking-exhibit) | 資料結構期末的停車場系統，改造成 3D 夜間展覽（堆疊×2＋佇列＋BST） | [live](https://parking-exhibit.vercel.app) |
+| [policy-sandbox](https://github.com/Chen931222/policy-sandbox) | 外送專法的可玩論證——60 個模擬外送員，校準到台灣真實數據 | [live](https://policy-sandbox-ashen.vercel.app) |
+| [personal-site](https://github.com/Chen931222/personal-site) | 個人網站「放映室」。Astro＋GSAP | [live](https://personal-site-tan-alpha.vercel.app) |
+| [outfit-today](https://github.com/Chen931222/outfit-today) | 今天穿什麼——衣櫃逐件建檔後的穿搭配衣 | [live](https://outfit-today.vercel.app) |
+| [cpe49-trainer](https://github.com/Chen931222/cpe49-trainer) | CPE 必考一星 49 題，題目與 Python 題解 | [live](https://cpe49-trainer.vercel.app) |
+
+聯絡：chenchen931222@gmail.com
