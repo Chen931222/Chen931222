@@ -10,7 +10,7 @@
 | [parking-exhibit](https://github.com/Chen931222/parking-exhibit) | 資料結構期末的停車場系統，改造成 3D 夜間展覽（堆疊×2＋佇列＋BST） | [live](https://parking-exhibit.vercel.app) |
 | [policy-sandbox](https://github.com/Chen931222/policy-sandbox) | 外送專法的可玩論證——60 個模擬外送員，校準到台灣真實數據 | [live](https://policy-sandbox-ashen.vercel.app) |
 | [personal-site](https://github.com/Chen931222/personal-site) | 個人網站「放映室」。Astro＋GSAP | [live](https://personal-site-tan-alpha.vercel.app) |
-| [outfit-today](https://github.com/Chen931222/outfit-today) | 今天穿什麼——衣櫃逐件建檔後的穿搭配衣 | [live](https://outfit-today.vercel.app) |
+| [wardrobe-gallery](https://github.com/Chen931222/wardrobe-gallery) | 我的衣櫃——把每一件衣服當成展品拍照陳列，92 件逐件建檔的衣物畫廊 | [live](https://wardrobe-gallery.vercel.app) |
 | [cpe49-trainer](https://github.com/Chen931222/cpe49-trainer) | CPE 必考一星 49 題，題目與 Python 題解 | [live](https://cpe49-trainer.vercel.app) |
 
 聯絡：chenchen931222@gmail.com
