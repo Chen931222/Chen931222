@@ -6,7 +6,7 @@
 
 | 專案 | 是什麼 | |
 |---|---|---|
-| [Oasis-green](https://github.com/Chen931222/Oasis-green) | 拼場共租平台。大二「網際網路系統設計」期末專題，56 個測試＋CI，一路做到上線 | [live](https://oasis-green.onrender.com) |
+| [Oasis-green](https://github.com/Chen931222/Oasis-green) | 拼場共租平台。大二「網際網路系統設計」期末專題，57 個測試＋CI，一路做到上線 | [live](https://oasis-green.onrender.com)<br><sub>免費方案，首次約 30 秒</sub> |
 | [parking-exhibit](https://github.com/Chen931222/parking-exhibit) | 資料結構期末的停車場系統，改造成 3D 夜間展覽（堆疊×2＋佇列＋BST） | [live](https://parking-exhibit.vercel.app) |
 | [policy-sandbox](https://github.com/Chen931222/policy-sandbox) | 外送專法的可玩論證——60 個模擬外送員，校準到台灣真實數據 | [live](https://policy-sandbox-ashen.vercel.app) |
 | [personal-site](https://github.com/Chen931222/personal-site) | 個人網站「放映室」。Astro＋GSAP | [live](https://personal-site-tan-alpha.vercel.app) |
