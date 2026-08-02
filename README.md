@@ -1,7 +1,6 @@
 ### 朱亞承 · CHU YA-CHENG
 
-把生活裡的東西一件一件建檔，再做成可以走進去的展場。  
-衣櫃 92 件逐件建檔、資料結構期末的停車場變成 3D 夜間展覽、外送專法變成 60 個外送員的可玩模擬。
+
 
 興大資管，正在做畢業專題。  
 慣用 Python（FastAPI／pytest）與 JavaScript（Three.js／Astro＋GSAP），資料庫用 PostgreSQL，會把測試和 CI 一起帶上。正在補的是系統設計與演算法。
