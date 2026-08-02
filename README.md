@@ -2,7 +2,7 @@
 
 
 
-興大資管，正在做畢業專題。  
+興大資管，正在做畢業專題。@  NCHU   
 慣用 Python（FastAPI／pytest）與 JavaScript（Three.js／Astro＋GSAP），資料庫用 PostgreSQL，會把測試和 CI 一起帶上。正在補的是系統設計與演算法。
 
 完整的作品與方法在 **[personal-site-tan-alpha.vercel.app](https://personal-site-tan-alpha.vercel.app)**。
