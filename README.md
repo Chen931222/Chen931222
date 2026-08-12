@@ -14,6 +14,8 @@
 
 | 專案 | 是什麼 | |
 |---|---|---|
+| [clipforge-ai](https://github.com/Chen931222/clipforge-ai) | AI 影片內容工廠——一份品牌素材，產出 90 秒主影片、直式短影音、SRT 字幕與四平台社群文案。Next.js＋Remotion＋Edge TTS<br><sub>AI video content factory — one brand brief in; a 90-second video, vertical shorts, SRT subtitles and social copy for four platforms out. Next.js + Remotion + Edge TTS.</sub> | <sub>本機 MVP，示範見 repo<br>local MVP — demo in the repo</sub> |
+| [enterprise-experience-agent](https://github.com/Chen931222/enterprise-experience-agent) | 企業經驗分身＋可執行 AI 作業員——自己跑完「詢價→擷取→報價→核准→寄送」整條流程。Next.js＋Prisma＋Claude<br><sub>An enterprise know-how twin with an AI operator that runs the whole quote pipeline: inquiry → extraction → quote → approval → send. Next.js + Prisma + Claude.</sub> | <sub>本機 MVP，示範見 repo<br>local MVP — demo in the repo</sub> |
 | [Oasis-green](https://github.com/Chen931222/Oasis-green) | 拼場共租平台。大二「網際網路系統設計」期末專題，57 個測試＋CI，一路做到上線<br><sub>Space-sharing rental platform. Sophomore capstone for "Internet Systems Design" — 57 tests + CI, taken all the way to production.</sub> | [live](https://oasis-green.onrender.com)<br><sub>免費方案，首次約 30 秒<br>free tier, ~30 s cold start</sub> |
 | [parking-exhibit](https://github.com/Chen931222/parking-exhibit) | 資料結構期末的停車場系統，改造成 3D 夜間展覽（堆疊×2＋佇列＋BST）<br><sub>A data-structures final (2 stacks + queue + BST), rebuilt as a 3D night-time parking exhibit.</sub> | [live](https://parking-exhibit.vercel.app) |
 | [policy-sandbox](https://github.com/Chen931222/policy-sandbox) | 外送專法的可玩論證——60 個模擬外送員，校準到台灣真實數據<br><sub>A playable argument about Taiwan's food-delivery labor law — 60 simulated couriers, calibrated to real Taiwanese data.</sub> | [live](https://policy-sandbox-ashen.vercel.app) |
